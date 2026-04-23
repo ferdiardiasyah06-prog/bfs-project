@@ -10,7 +10,7 @@ Proyek ini berisi simulasi algoritma Breadth First Search (BFS) untuk menelusuri
 
 File Excel:
 
-* bfs-trace.xlsx
+* 📄 [Download File Excel BFS](BFS_23424037.xlsx)
 
 ---
 
